@@ -1,0 +1,26 @@
+{
+  "data": {
+    "allCustomers": [
+      {
+        "id": "91865cad-6676-496f-9afe-1d1d3639331a",
+        "firstName": "Vishal",
+        "email": "haldekarv@mail.com",
+        "bankAccount": {
+          "id": "60c0b962-97bb-4ed6-8ca5-eeeb8bbebec4",
+          "currency": "USD",
+          "balance": "6579"
+        }
+      },
+      {
+        "id": "b7483827-4c40-46cd-b30d-92cc8fd645c6",
+        "firstName": "Jhon",
+        "email": "jhon.carter@mail.com",
+        "bankAccount": {
+          "id": "3cbfbd92-c6e7-4630-be70-4a96a46c6748",
+          "currency": "INR",
+          "balance": "2000"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+#Schema for customer
+type Customer{
+    id:ID!
+    firstName :String
+    lastName :String
+    email :String
+    bankAccount : BankAccount
+}

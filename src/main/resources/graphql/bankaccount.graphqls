@@ -1,0 +1,6 @@
+#Schema for bankaccount
+type BankAccount{
+    id:ID!
+    currency : String
+    balance: String
+}

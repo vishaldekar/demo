@@ -1,0 +1,13 @@
+query All_CUSTOMERS {
+    allCustomers {
+        id
+        firstName
+        email
+
+        bankAccount{
+            id
+            currency
+            balance
+        }
+    }
+}

@@ -1,0 +1,25 @@
+type Mutation{
+    #we can add customer which return customer
+    addCustomer(input : addCustomerInput!) : Customer
+
+    #add multiple customers at a time
+    addCustomers(input : [addCustomerInput] ) :[Customer]
+
+    #we can update customer which return updated customer
+    updateCustomer(input : updateCustomerInput! , id : String! ) : Customer
+}
+
+input  addCustomerInput {
+    firstName : String
+    lastName : String
+    email : String
+    balance : String
+    currency :String
+}
+input updateCustomerInput {
+    firstName : String
+    lastName : String
+    email : String
+}
+
+

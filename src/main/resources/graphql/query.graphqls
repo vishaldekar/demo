@@ -1,0 +1,9 @@
+
+type Query {
+    # get list of customers
+    allCustomers : [Customer]
+    #get customer by ID
+    findCustomerById(id :String!) : Customer
+}
+
+
