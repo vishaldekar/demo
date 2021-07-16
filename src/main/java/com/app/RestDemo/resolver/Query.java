@@ -1,6 +1,5 @@
 package com.app.RestDemo.resolver;
 
-
 import com.app.RestDemo.entity.Customer;
 import com.app.RestDemo.repository.CustomerRepository;
 import graphql.kickstart.tools.GraphQLQueryResolver;
@@ -22,6 +21,5 @@ public class Query implements GraphQLQueryResolver {
     public Customer findCustomerById(String id ){
         return customerRepository.findById(id).get();
     }
-
 
 }
