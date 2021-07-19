@@ -2,19 +2,29 @@
   "data": {
     "allCustomers": [
       {
-        "id": "1e70cd6c-b681-4332-a600-b0f57f19c937",
+        "id": "2d213bb3-d720-438d-84cd-b191cb05b3bf",
+        "firstName": "test1",
+        "email": "test@mail.com"
+      },
+      {
+        "id": "6a990c6f-64e7-4119-a04e-e4d47591b62e",
         "firstName": "test2",
         "email": "test2@mail.com"
       },
       {
-        "id": "bd71e338-eac0-4cc3-848e-66635d76035b",
-        "firstName": "test1",
-        "email": "test1@mail.com"
+        "id": "91865cad-6676-496f-9afe-1d1d3639331a",
+        "firstName": "Vishal",
+        "email": "haldekarv@mail.com"
       },
       {
-        "id": "ec663e72-8662-4f8a-86e8-3b0e9e100ab7",
-        "firstName": null,
-        "email": null
+        "id": "b7483827-4c40-46cd-b30d-92cc8fd645c6",
+        "firstName": "Jhon",
+        "email": "jhon.carter@mail.com"
+      },
+      {
+        "id": "dab337f2-bdd6-4d65-8b05-f8be98216780",
+        "firstName": "test3",
+        "email": "test3@mail.com"
       }
     ]
   }
