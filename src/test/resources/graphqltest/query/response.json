@@ -4,28 +4,17 @@
       {
         "id": "1e70cd6c-b681-4332-a600-b0f57f19c937",
         "firstName": "test2",
-        "email": "test2@mail.com",
-        "bankAccount": {
-          "id": "b0980bd7-fda1-432e-939d-513c34448b44",
-          "currency": "USD",
-          "balance": "4000"
-        }
+        "email": "test2@mail.com"
       },
       {
         "id": "bd71e338-eac0-4cc3-848e-66635d76035b",
         "firstName": "test1",
-        "email": "test1@mail.com",
-        "bankAccount": {
-          "id": "8483351a-7ae8-455e-b342-98bc8a1f34df",
-          "currency": "INR",
-          "balance": "2000"
-        }
+        "email": "test1@mail.com"
       },
       {
         "id": "ec663e72-8662-4f8a-86e8-3b0e9e100ab7",
         "firstName": null,
-        "email": null,
-        "bankAccount": null
+        "email": null
       }
     ]
   }

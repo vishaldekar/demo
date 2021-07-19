@@ -3,11 +3,5 @@ query All_CUSTOMERS {
         id
         firstName
         email
-
-        bankAccount{
-            id
-            currency
-            balance
-        }
     }
 }
