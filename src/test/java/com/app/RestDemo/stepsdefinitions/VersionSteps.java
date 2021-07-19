@@ -12,7 +12,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class VersionSteps {
 
 
-    String url = "http://localhost:8080/test/version";
+    String url = "http://localhost:8081/test/version";
 
     TestRestTemplate testRestTemplate = new TestRestTemplate();
 

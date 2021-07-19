@@ -14,7 +14,7 @@ public class CalculatorSteps {
 
     private int add ;
 
-    private String URL = "http://localhost:8080";
+    private String URL = "http://localhost:8081";
 
     TestRestTemplate testRestTemplate = new TestRestTemplate();
 
